@@ -21,8 +21,8 @@
 			<text class="cell-tit">清除缓存</text>
 			<text class="cell-more yticon icon-you"></text>
 		</view>
-		<view class="list-cell b-b" @click="navTo('关于Dcloud')" hover-class="cell-hover" :hover-stay-time="50">
-			<text class="cell-tit">关于Dcloud</text>
+		<view class="list-cell b-b" @click="navTo('关于WeeShop')" hover-class="cell-hover" :hover-stay-time="50">
+			<text class="cell-tit">关于WeeShop</text>
 			<text class="cell-more yticon icon-you"></text>
 		</view>
 		<view class="list-cell">
